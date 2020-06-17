@@ -1,11 +1,12 @@
 ## Getting Started
 
-Thank you for purchasing Workday. 
+Thank you for using Time-Clock-Application-For-Employees . 
 
-Workday is a time clock application based on Laravel and PHP, designed for a time and attendance system, time tracking, employee time clock, and timekeeping application.
+
+Time-Clock-Application-For-Employees is a time clock application based on Laravel and PHP, designed for a time and attendance system, time tracking, employee time clock, and timekeeping application.
 
 If you have any question about Workday please feel free to contact with us. 
-If you need support, customization or feature request, you may email to us at official.codefactor@gmail.com
+If you need support, customization or feature request, you may email to us at seumoblondel@gmail.com
 
 ## System Requirements
 
@@ -21,7 +22,7 @@ Nginx or Apache (recommended) http server
 
 ## Installation
 
-1. Unzip the Download file from Codecanyon. You will find two folders, one folder contains Documentation & another is Application Files.
+1. Unzip the Download file. You will find two folders, one folder contains Documentation & another is Application Files.
 
 2. Upload the entire Application Files folder to your website or server.
 
@@ -37,4 +38,4 @@ Nginx or Apache (recommended) http server
 7. Use demo account for first time login. Use username: manager@example.com and password: demo12345. You may delete the demo manager and employee user account after creating a new manager type user.
 
 
-### If you need technical support or feature request, you may email to us at official.codefactor@gmail.com
+### If you need technical support or feature request, you may email to us at seumoblondel@gmail.com
